@@ -57,7 +57,6 @@ February saw a noticeable dip (~$93K), which could indicate seasonal trends or m
 
 ### Recommendation
 Based on the insights drawn from the analysis of Q1 2019 retail data, the following recommendations can help drive better business performance:
-
 1. Double Down on Best Selling Products
 Invest more in promoting Food & Beverages and Sports/Travel categories through targeted campaigns, bundle offers, or loyalty points.
 2. Optimize Branch Operations
