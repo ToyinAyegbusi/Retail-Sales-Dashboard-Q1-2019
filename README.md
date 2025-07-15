@@ -2,9 +2,9 @@
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
-- [Project Workflow & Tools Used](#project-workflow-&-tools-Used)
+- [Project Workflow with Tools Used](#project-workflow-with-tools-used)
 - [Insights](#insights)
-- 
+- [Recommendation](#recommendation)
 
 ### Project Overview
 In the dynamic world of retail, success goes beyond tracking total sales. Businesses need to understand what products perform best, which customer segments drive revenue, when people are most likely to buy, and which branches deliver the most value.This project simulates a real-world scenario for a retail company aiming to:
@@ -20,7 +20,7 @@ The goal is to support data-driven decision-making across marketing, inventory, 
 Retail businesses often struggle with understanding which product lines and customer segments drive the most revenue. Without a clear picture of sales trends, customer behavior, and performance across different locations and times of day, it's difficult to make informed decisions about inventory, marketing, and customer engagement strategies.
 This project addresses that challenge by analyzing key performance indicators from a retail dataset helping the business make data-driven decisions to increase profitability and customer satisfaction.
 
-### Project Workflow & Tools Used
+### Project Workflow with Tools Used
 To complete this project, I followed a step-by-step data analysis workflow designed to simulate a real-world business scenario. Here’s a breakdown of the process:
 1. Dataset Sourcing: The dataset was downloaded from Kaggle. It contains retail sales data including customer demographics, product lines, payment types, revenue figures, and time-based information.
 2. Data Cleaning & Preparation (Using Microsoft Excel):
